@@ -1,0 +1,1 @@
+{"name":"Local: Floor_door","url":"c:\\cpro\\Assignment2\\Floor_door.c","tests":[{"id":1694522724106,"input":"4","output":"1 4"},{"id":1694523254135,"input":"1","output":"1"},{"id":1694523341090,"input":"6","output":"1 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpro\\Assignment2\\Floor_door.c","group":"local","local":true}
