@@ -1,0 +1,1 @@
+{"name":"Local: hello_without_main","url":"c:\\cpro\\MC\\hello_without_main.c","tests":[{"id":1695797528163,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpro\\MC\\hello_without_main.c","group":"local","local":true}

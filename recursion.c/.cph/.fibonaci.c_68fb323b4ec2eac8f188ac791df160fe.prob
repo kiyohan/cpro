@@ -1,0 +1,1 @@
+{"name":"Local: fibonaci","url":"c:\\cpro\\recursion.c\\fibonaci.c","tests":[{"id":1695218396938,"input":"10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpro\\recursion.c\\fibonaci.c","group":"local","local":true}

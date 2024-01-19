@@ -1,0 +1,1 @@
+{"name":"Local: leader","url":"c:\\cpro\\Lab\\leader.c","tests":[{"id":1694887239129,"input":"7\n1 1 3 2 4 10 9","output":"1 3 4 10\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpro\\Lab\\leader.c","group":"local","local":true}

@@ -1,6 +1,9 @@
 {
     "C_Cpp.errorSquiggles": "disabled",
     "files.associations": {
-        "stdio.h": "c"
-    }
+        "stdio.h": "c",
+        "string.h": "c"
+    },
+    "docwriter.style": "Google",
+    "docwriter.progress.trackFunctions": false
 }

@@ -1,0 +1,1 @@
+{"name":"Local: fast_search","url":"c:\\cpro\\CF\\fast_search.c","tests":[{"id":1696496611688,"input":"5\n3 56 65 4 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpro\\CF\\fast_search.c","group":"local","local":true}

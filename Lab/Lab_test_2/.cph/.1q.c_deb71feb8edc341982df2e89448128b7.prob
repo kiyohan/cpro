@@ -1,0 +1,1 @@
+{"name":"Local: 1q","url":"c:\\cpro\\Lab\\Lab_test_2\\1q.c","tests":[{"id":1698915191879,"input":"4\n4\n1010\n2\n55\n5\n23456\n18\n123321221321332132","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpro\\Lab\\Lab_test_2\\1q.c","group":"local","local":true}

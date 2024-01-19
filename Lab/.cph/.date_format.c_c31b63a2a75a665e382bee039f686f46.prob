@@ -1,0 +1,1 @@
+{"name":"Local: date_format","url":"c:\\cpro\\Lab\\date_format.c","tests":[{"id":1694888454144,"input":"04-28-05","output":"28-04-05"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\cpro\\Lab\\date_format.c","group":"local","local":true}

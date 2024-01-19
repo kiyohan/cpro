@@ -1,0 +1,33 @@
+    // int i,j;
+    
+    // for (i = 1; i < 40320; i++) { // Start from 1 as arr[0] is always sorted
+    //     char currentElement[9];
+    //     strcpy(currentElement, combi[i]);
+    //     j = i - 1;
+    //     // Move elements of arr[0..i-1], that are greater than key, 
+    //     // to one position ahead of their current position
+    //     // while (j >= 0 && arr[j] > currentElement) {
+    //     while (j >= 0 && (strcmp(combi[i], currentElement) > 0) ) {
+    //     // arr[j + 1] = arr[j];
+    //     strcpy(combi[j+1], combi[j]);
+    //     j = j - 1;
+    //     }
+    //     // Finally place the Current element at its correct position.
+    //     // arr[j + 1] = currentElement;
+    //     strcpy(combi[j+1], currentElement);
+    // }
+
+
+
+    // for(int i=0;i<count-1;i++){
+     
+        // for(int j=0;j<count-1-i;j++){
+        //     if(strcmp(combi[j],combi[j+1]) > 0){
+            
+        //         char temp[101];
+        //         strcpy(temp,combi[j]);
+        //         strcpy(combi[j],combi[j+1]);
+        //         strcpy(combi[j+1],temp);
+        //     } 
+        // }
+    // }

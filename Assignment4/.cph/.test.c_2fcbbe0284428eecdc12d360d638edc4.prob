@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"/home/akmalali/cpro/Assignment4/test.c","tests":[{"id":1698752663534,"input":"CREATE Savings ar 1900\nCREATE Savings ar 1900\nCREATE Savings ar 1900\nDISPLAY\nEXIT","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/akmalali/cpro/Assignment4/test.c","group":"local","local":true}
